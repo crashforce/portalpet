@@ -1,0 +1,21 @@
+Como cadastrar?
+- Informe o nome do seu pet, nome, senha, sexo e depois clique em registrar.
+
+Como fazer login?
+- No campo e-mail ou usuário informe seu registro e logo sua senha depois clique em login.
+
+Perdeu a senha?
+- Clique no botão "perdeu a senha", uma nova aba abrira, informe seu e-mail que enviaremos uma mensagem com a redefinição de senha.
+
+Acesso com o Facebook?
+- Clique no botão do Facebook, vamos te redirecionar a uma nova pagina, faça o login no seu Facebook e complete seu acesso.
+
+Como postar um novo vídeo?
+- Ao logar clique na aba superior vermelha em cima da imagem de uma "câmera de gravar", abrira um campo "novo vídeo" adicione um link ou clique em "adicionar mais" e escolha um vídeo em seu computador, depois clique em "carregar" para postar em seu feed ou "cancelar" para voltar ao feed.
+
+Como postar uma nova foto?
+- Ao logar clique na aba superior vermelha em cima da imagem de uma "maquina de retrato" abrira um campo "carregar nova foto" clique em "selecione fotos" e escolha uma imagem em seu computador, a foto irá carregar depois clique em "salve" para postar em seu feed ou "cancela" para voltar ao feed.
+
+Localizar um novo usuário?
+-
+
