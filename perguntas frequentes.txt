@@ -1,5 +1,5 @@
 Como cadastrar?
-- Informe o nome do seu pet, nome, senha, sexo e depois clique em registrar.
+- Informe o nome do seu pet, senha, sexo e depois clique em registrar.
 
 Como fazer login?
 - No campo e-mail ou usuário informe seu registro e logo sua senha depois clique em login.
@@ -11,11 +11,26 @@ Acesso com o Facebook?
 - Clique no botão do Facebook, vamos te redirecionar a uma nova pagina, faça o login no seu Facebook e complete seu acesso.
 
 Como postar um novo vídeo?
-- Ao logar clique na aba superior vermelha em cima da imagem de uma "câmera de gravar", abrira um campo "novo vídeo" adicione um link ou clique em "adicionar mais" e escolha um vídeo em seu computador, depois clique em "carregar" para postar em seu feed ou "cancelar" para voltar ao feed.
+- Ao logar clique na aba superior preta em cima da imagem de uma "câmera de gravar", abrira um campo "novo vídeo" adicione um link ou clique em "adicionar mais" e escolha um vídeo em  
+seu computador, depois clique em "carregar" para postar em seu feed ou "cancelar" para voltar ao feed.
 
 Como postar uma nova foto?
-- Ao logar clique na aba superior vermelha em cima da imagem de uma "maquina de retrato" abrira um campo "carregar nova foto" clique em "selecione fotos" e escolha uma imagem em seu computador, a foto irá carregar depois clique em "salve" para postar em seu feed ou "cancela" para voltar ao feed.
+- Ao logar clique na aba superior preta em cima da imagem de uma "maquina de retrato" abrira um campo "carregar nova foto" clique em "selecione fotos" e escolha uma imagem em seu computador, a foto irá carregar depois clique em "salve" para postar em seu feed ou "cancela" para voltar ao feed.
 
 Localizar um novo usuário?
--
+- Na aba superior preta clique em cima da imagem de uma "lupa" logo em seguida aparecerá o campo busca, procure pelo nome do pet que procura.
 
+Iniciando uma nova conversa?
+- Vá até o perfil do pet que deseja enviar a mensagem e em seguida clique em mensagem, uma nova aba de conversa irá abrir, escreva sua mensagem e clique em enviar.
+
+Acessar as notificações?
+- Na aba superior preta vá até a imagem 
+
+Como convidar um novo pet?
+- Na aba superior preta clique no botão ao lado da foto do seu pet em seguida abrira uma nova aba, então convide o amigo.
+
+Como acessar o perfil?
+- Clique em cima da foto do seu pete na aba superior, depois clique em meu perfil
+
+Como mudar o nome ou email?
+- Clique em cima da foto do seu pete na aba superior, em seguida clique em configurações. No 1º campo escreva o nome que deseja para alterar. No 3º campo escreva o novo e-mail para ser modificado.
